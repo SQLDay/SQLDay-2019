@@ -1,0 +1,30 @@
+DEMO 1
+ADLA  Demo-001.usql
+Spark 001-ExtAndManagedTables
+
+DEMO 2
+
+ADLA	Demo-002.usql
+ADLA	Demo-003.usql
+ADLA	Demo-004.usql
+
+Spark 002-ExtPartitionedTable
+Spark 003-Partitions
+
+DEMO 3
+Spark	005-BucketingJoin
+Spark	006-HivePartitionedAndBucketedTable
+Spark	ODBC/JDBC Connector
+
+
+DEMO 4
+
+ADLA	CreateTableDist.usql
+ADLA	LoadDataIntoStreetCrimesDistByCrimeType.usql
+ADLA	PartitionInfo.usql
+ADLA	Demo-005.usql
+
+
+Spark
+010-Delta
+011-Delta

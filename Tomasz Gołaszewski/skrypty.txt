@@ -1,0 +1,7 @@
+TASKLIST /FI "imagename eq msmdsrv.exe" /FI "sessionname eq console"
+
+netstat /ano | findstr "50264"
+
+
+
+C:\Users\tgolaszewsk3\AppData\Local\Microsoft\Power BI Desktop\AnalysisServicesWorkspaces
